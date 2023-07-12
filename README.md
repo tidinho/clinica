@@ -1,3 +1,3 @@
 # clinica
 
-Esse projeto é site simples de uma clinica médica
+Esse projeto é um site simples de uma clinica médica
